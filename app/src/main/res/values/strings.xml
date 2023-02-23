@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crocodiles</string>
+    <string name="alligator"><b>Аллигаторы</b></string>
+    <string name="mississippi_alligator"><b>Рис. 1.1.</b> Миссисипский аллигатор</string>
+    <string name="chinese_alligator"><b>Рис. 1.2.</b> Китайский аллигатор</string>
+    <string name="caiman"><b>Кайманы</b></string>
+    <string name="spectacled_caiman"><b>Рис. 2.1.</b> Крокодиловый кайман</string>
+    <string name="broad_snouted_caiman"><b>Рис. 2.2.</b> Широкомордый кайман</string>
+    <string name="yacare_caiman"><b>Рис. 2.3.</b> Парагвайский кайман</string>
+    <string name="сuviers_dwarf_caiman"><b>Рис. 2.4.</b> Гладколобый кайман</string>
+    <string name="smooth_fronted_caiman"><b>Рис. 2.5.</b> Гладколобый кайман Шнайдера</string>
+    <string name="black_caiman"><b>Рис. 2.6.</b> Черный кайман</string>
+</resources>
